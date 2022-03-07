@@ -1,3 +1,4 @@
+This code can be improved but works fine for the usecase. Quality of the code is not that great.
 ```shell
 ulimit -n 10240
 curl https://api.honeycomb.io/1/columns/vector_multitenant_prod_filtered \
